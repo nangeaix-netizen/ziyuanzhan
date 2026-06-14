@@ -1,4 +1,4 @@
-# 资源站,影视资源站与采集站聚集和收集平台，包含视频源，播放源，json，xml等等格式，支持libretv，mmoontvplus，maccms等等
+# 资源站,影视资源站与采集站聚集和收集平台，包含视频源，播放源，json，xml等等格式，支持libretv，moontvplus，maccms等等
 
 一个自动监测 [ziyuanzu.com](https://www.ziyuanzu.com/) 影视资源站可用性的开源工具，通过 GitHub Actions 定时运行，生成静态监控页面并通过 GitHub Pages 发布。
 ## 功能特性
